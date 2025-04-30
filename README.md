@@ -6,8 +6,7 @@
 
 ---
 
-### 🛠 **Tecnologias**  
-#### Front-End & Back-End:
+
 
 ### 🛠 **Tecnologias**  
 #### Front-End & Back-End:
@@ -27,4 +26,11 @@
 ![Less](https://img.shields.io/badge/Less-1D365D?style=flat&logo=less&logoColor=white)
 ![Grunt](https://img.shields.io/badge/Grunt-FBA919?style=flat&logo=grunt&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+
+### 📊 **Minhas Estatísticas**  
+
+| ![Estatísticas Gerais](https://github-readme-stats.vercel.app/api?username=PedroAlberto1&show_icons=true&theme=dark&hide_border=true) | ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroAlberto1&layout=compact&theme=dark&hide_border=true) |
+| ------------- | ------------- |
+
+![Total de Commits](https://img.shields.io/github/commit-activity/y/PedroAlberto1/PedroAlberto1?color=purple&label=Commits%20no%20%C3%BAltimo%20ano)
 
