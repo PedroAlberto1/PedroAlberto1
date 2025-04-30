@@ -2,7 +2,8 @@
 **Desenvolvedor Front-End | Estudante de Fullstack Python**  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-silva-101579220/linkedin/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:albertopedro822@gmail.com)
+[![Portfólio na Vercel](https://img.shields.io/badge/Portfólio-Vercel-000000?style=flat&logo=vercel&logoColor=white)](https://vercel.com/pedroalberto1s-projects)
 
 ---
 
