@@ -3,7 +3,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-silva-101579220/linkedin/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/1/#inbox)
-[![Portfólio na Vercel](https://img.shields.io/badge/Portfólio-Vercel-000000?style=flat&logo=vercel&logoColor=white)](https://meu-portfolio.vercel.app)
+[![Portfólio na Vercel](https://img.shields.io/badge/Portfólio-Vercel-000000?style=flat&logo=vercel&logoColor=white)](https://vercel.com/pedroalberto1s-projects)
 
 ---
 
