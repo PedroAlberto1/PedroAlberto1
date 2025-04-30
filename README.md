@@ -6,20 +6,30 @@
 
 ---
 
-### 🚀 **Habilidades**  
-- **Front-End**: HTML, CSS, JavaScript, React.js  
-- **Back-End**: Python (Django/Flask), Node.js  
-- **Ferramentas**: Git, VS Code, Figma  
-- **Estudando**: TypeScript, Docker, AWS  
+### 🛠 **Tecnologias**  
+#### Front-End & Back-End:
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+
+#### Estilização & Ferramentas:
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
+![Less](https://img.shields.io/badge/Less-1D365D?style=flat&logo=less&logoColor=white)
+![Grunt](https://img.shields.io/badge/Grunt-FBA919?style=flat&logo=grunt&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
 ---
 
 ### 📌 **Projetos em Destaque**  
 | Projeto | Descrição | Tecnologias |  
 |---------|-----------|-------------|  
-| **[E-commerce React](link)** | Site de e-commerce com carrinho de compras. | React, Redux, CSS Modules |  
-| **[API Python](link)** | API REST para gestão de tarefas. | Django, PostgreSQL, Swagger |  
-| **[Portfólio Pessoal](link)** | Site responsivo com projetos e blog. | HTML, SCSS, JavaScript |  
+| **[E-commerce Vue.js](link)** | Plataforma de vendas com carrinho dinâmico. | Vue.js, TypeScript, Sass |  
+| **[API Node.js](link)** | Sistema de autenticação JWT para usuários. | Node.js, Express, MongoDB |  
+| **[Dashboard React](link)** | Painel administrativo com gráficos interativos. | React, Python (Backend), SQL |  
 
 ---
 
@@ -30,6 +40,6 @@
 ---
 
 ### 🌱 **Metas para 2024**  
-- [x] Finalizar curso de React  
-- [ ] Publicar 5 projetos open-source  
-- [ ] Contribuir para projetos Python  
+- [x] Dominar Vue.js e TypeScript  
+- [ ] Criar 3 projetos fullstack (React + Python)  
+- [ ] Publicar artigo técnico sobre Node.js
