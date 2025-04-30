@@ -1,4 +1,4 @@
-# 👋 Olá, sou Pedro Alberto!  
+# 👋 Olá, sou Pedro Silva!  
 **Desenvolvedor Front-End | Estudante de Fullstack Python**  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-silva-101579220/linkedin/)
