@@ -7,8 +7,6 @@
 
 ---
 
-
-
 ### 🛠 **Tecnologias**  
 #### Front-End & Back-End:
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
