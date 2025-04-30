@@ -1,31 +1,35 @@
-## Olá! Sou o Pedro Alberto👋
+# 👋 Olá, sou Pedro Alberto!  
+**Desenvolvedor Front-End | Estudante de Fullstack Python**  
 
-- 🔭 Hoje estou procurando emprego na área de front-end
-- 🌱 Estudando Full stack Python
-- 😄 Pronouns: Ele/Dele
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-linkedin/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
 
-<div>
-  <a href="https://github.com/PedroAlberto1">
- <img height ="180cm" src="https://github-readme-stats.vercel.app/api?username=PedroAlberto1&show_icons=true&theme=dark&include_all_commis=true&count_private-true"/>
- <img height ="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroAlberto1&layolt=compact&langs_count=16&theme=dark"/>
- </div>
+---
 
- <div style="display: inline_block"><br>
-  <img align="center" alt="Pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Pedro-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Pedro-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Pedro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Pedro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Pedro-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  </div>
+### 🚀 **Habilidades**  
+- **Front-End**: HTML, CSS, JavaScript, React.js  
+- **Back-End**: Python (Django/Flask), Node.js  
+- **Ferramentas**: Git, VS Code, Figma  
+- **Estudando**: TypeScript, Docker, AWS  
 
-  ##
+---
 
-<div>
-  <a href ="https://vercel.com/pedroalberto1s-projects" target="blank"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
-  <a href ="https://www.linkedin.com/in/pedro-alberto-101579220/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  <a href="email:albertopedro822@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</div>
+### 📌 **Projetos em Destaque**  
+| Projeto | Descrição | Tecnologias |  
+|---------|-----------|-------------|  
+| **[E-commerce React](link)** | Site de e-commerce com carrinho de compras. | React, Redux, CSS Modules |  
+| **[API Python](link)** | API REST para gestão de tarefas. | Django, PostgreSQL, Swagger |  
+| **[Portfólio Pessoal](link)** | Site responsivo com projetos e blog. | HTML, SCSS, JavaScript |  
 
- 
+---
+
+### 📈 **Estatísticas do GitHub**  
+![Pedro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PedroAlberto1&show_icons=true&theme=dark&hide_border=true)  
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroAlberto1&layout=compact&theme=dark&hide_border=true)
+
+---
+
+### 🌱 **Metas para 2024**  
+- [x] Finalizar curso de React  
+- [ ] Publicar 5 projetos open-source  
+- [ ] Contribuir para projetos Python  
